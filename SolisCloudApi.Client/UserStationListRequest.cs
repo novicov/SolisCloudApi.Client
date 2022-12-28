@@ -1,6 +1,3 @@
 ﻿namespace SolisCloudApi.Client;
 
-public class UserStationListRequest
-{
-    
-}
+public record UserStationListRequest(int PageNo = 1, int PageSize = 10);
