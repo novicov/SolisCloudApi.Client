@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolisCloudApi.Client", "SolisCloudApi.Client\SolisCloudApi.Client.csproj", "{8EAA2040-017E-4D2F-8A3D-0351F72A8A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EAA2040-017E-4D2F-8A3D-0351F72A8A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EAA2040-017E-4D2F-8A3D-0351F72A8A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EAA2040-017E-4D2F-8A3D-0351F72A8A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EAA2040-017E-4D2F-8A3D-0351F72A8A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
